@@ -1,4 +1,4 @@
-# forward-leveldown
+# forward-leveldown[![build status](https://secure.travis-ci.org/kesla/forward-leveldown.png)](http://travis-ci.org/kesla/forward-leveldown)
 
 An abstract-leveldown variant where all missing methods get redirected to another leveldown-instance
 
