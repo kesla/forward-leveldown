@@ -1,0 +1,18 @@
+{
+  "name": "forward-leveldown",
+  "version": "0.0.0",
+  "description": "An abstract-leveldown variant where all missing methods get redirected to another leveldown-instance",
+  "main": "forward-leveldown.js",
+  "dependencies": {
+    "abstract-leveldown": "^0.12.2",
+    "inherits": "^2.0.1"
+  },
+  "devDependencies": {
+    "tap": "^0.4.9"
+  },
+  "scripts": {
+    "test": "tap test.js"
+  },
+  "author": "David Björklund <david.bjorklund@gmail.com>",
+  "license": "MIT"
+}
