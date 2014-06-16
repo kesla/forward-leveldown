@@ -1,6 +1,6 @@
 {
   "name": "forward-leveldown",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "An abstract-leveldown variant where all missing methods get redirected to another leveldown-instance",
   "main": "forward-leveldown.js",
   "dependencies": {
